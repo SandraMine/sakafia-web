@@ -27,7 +27,7 @@ function AboutSection() {
             src={personalData.profile}
             width={280}
             height={280}
-            alt="Horthman Odame"
+            alt="Sandra Akafia"
             className="transition-all duration-1000 rounded-lg cursor-pointer grayscale hover:grayscale-0 hover:scale-110"
           />
         </div>
